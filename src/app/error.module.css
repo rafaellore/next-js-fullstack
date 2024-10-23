@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.errorTitle {
+  color: #81fe88;
+  margin-bottom: 0;
+}
+
+.errorDescription {
+  color: #bcbcbc;
+}
