@@ -8,3 +8,5 @@
 {"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"vuejs-para-iniciantesss"}
 {"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
 {"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{"clientVersion":"5.21.1","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
