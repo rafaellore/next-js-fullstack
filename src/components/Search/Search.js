@@ -34,6 +34,7 @@ export default function Search() {
       </div>
       <form action="/" className={styles.form}>
         <input
+          name="q"
           ref={inputRef}
           type="text"
           placeholder="Digite o que você procura"
